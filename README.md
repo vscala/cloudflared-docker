@@ -23,3 +23,4 @@ docker pull milgradesec/cloudflared:latest
 ## About
 
 The image is slightly modified to run as limited user instead of root.
+Forked from: https://github.com/milgradesec/cloudflared-docker
